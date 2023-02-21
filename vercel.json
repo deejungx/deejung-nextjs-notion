@@ -1,7 +1,8 @@
 {
     "rewrites": [
       { "source": "/post/identifying-misleading-data-visualizations", "destination": "/identifying-misleading-data-visualizations" },
-      { "source": "/post/5-principles-of-interaction-for-product-design", "destination": "/principles-of-interaction-for-product-design" }
+      { "source": "/post/5-principles-of-interaction-for-product-design", "destination": "/principles-of-interaction-for-product-design" },
+      { "source": "/post/how-to-manage-startup-finances", "destination": "/startup-finance-tips-and-tricks" }
     ]
   }
   
