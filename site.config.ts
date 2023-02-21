@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'DeeJung',
+  name: 'Dee Jung',
   domain: 'deejung-nextjs-notion-39etrriza-dipzz1394.vercel.app',
   author: 'Dipesh Jung Pandey',
 
   // open graph metadata (optional)
-  description: 'Data Science, AI, Engineering, Business, Psychology and more',
+  description: 'Data Science, AI, Engineering, Entrepreneurship, Design, Psychology and more',
 
   // social usernames (optional)
   twitter: 'deejungx',

@@ -1,0 +1,7 @@
+{
+    "rewrites": [
+      { "source": "/post/identifying-misleading-data-visualizations", "destination": "/identifying-misleading-data-visualizations" },
+      { "source": "/post/5-principles-of-interaction-for-product-design", "destination": "/principles-of-interaction-for-product-design" }
+    ]
+  }
+  
