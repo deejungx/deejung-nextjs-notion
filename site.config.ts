@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '92c84d86e3d24123b1a25ce7b12f20de',
+  rootNotionPageId: 'Dee-Jung-92c84d86e3d24123b1a25ce7b12f20de',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Dee Jung',
-  domain: 'deejung-nextjs-notion-39etrriza-dipzz1394.vercel.app',
+  domain: 'deejung-nextjs-notion-git-main-dipzz1394.vercel.app',
   author: 'Dipesh Jung Pandey',
 
   // open graph metadata (optional)
