@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Dipesh Jung Pandey',
 
   // open graph metadata (optional)
-  description: 'Data Science, AI, Engineering, Entrepreneurship, Design, Psychology and more',
+  description: 'AI, Data Science, Engineering, Entrepreneurship, Design, Psychology and more',
 
   // social usernames (optional)
   twitter: 'deejungx',
