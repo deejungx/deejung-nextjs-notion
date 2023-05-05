@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Dee Jung',
-  domain: 'deejung-nextjs-notion-git-main-dipzz1394.vercel.app',
+  domain: 'deejung.xyz',
   author: 'Dipesh Jung Pandey',
 
   // open graph metadata (optional)
