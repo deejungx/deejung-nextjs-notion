@@ -10,7 +10,7 @@
 
 [![Build Status](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/actions/workflows/build.yml/badge.svg)](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/actions/workflows/build.yml) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
-## Intro
+## Introduction
 
 This repo is what I use to power my personal blog and portfolio site [transitivebullsh.it](https://transitivebullsh.it).
 
