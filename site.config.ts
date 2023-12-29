@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Dipesh Jung Pandey',
 
   // open graph metadata (optional)
-  description: 'AI, Data Science, Engineering, Entrepreneurship, Design, Psychology and more',
+  description: 'A versatile and enthusiastic learner, with a deep-rooted passion for technology, education, and entrepreneurship.',
 
   // social usernames (optional)
   twitter: 'deejungx',
@@ -50,16 +50,16 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+  // navigationStyle: 'default',
+  navigationStyle: 'custom',
+  navigationLinks: [
+    {
+      title: 'About',
+      pageId: 'About-c0bb5ce042874771a5d3910f8ad7f448'
+    },
+    {
+      title: 'Contact',
+      pageId: 'Contact-4befe2e035d44ac3aa539d1e656f9536'
+    }
+  ]
 })
