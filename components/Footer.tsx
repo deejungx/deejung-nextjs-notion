@@ -20,6 +20,7 @@ import styles from './styles.module.css'
 export const FooterImpl: React.FC = () => {
   const [hasMounted, setHasMounted] = React.useState(false)
   const { isDarkMode, toggleDarkMode } = useDarkMode()
+  const currentYear = new Date().getFullYear()
 
   const onToggleDarkMode = React.useCallback(
     (e) => {
@@ -35,7 +36,11 @@ export const FooterImpl: React.FC = () => {
 
   return (
     <footer className={styles.footer}>
+<<<<<<< HEAD
       <div className={styles.copyright}>©️ 2023 {config.author}</div>
+=======
+      <div className={styles.copyright}>Copyright {currentYear} {config.author}</div>
+>>>>>>> 0e40674e88f8429fbb136d032ae77be17f1bda9c
 
       <div className={styles.settings}>
         {hasMounted && (
